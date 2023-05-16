@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto| Tapestry');
+
+#photo{
+    height: 670px;
+    margin: 15px;
+    float: left;
+    width: 200px;
+    background-color: rgb(148, 122, 127);
+}
+#myName, #jobTitle{
+    color: whitesmoke;
+}
+
+#intro{
+    float:left;
+    text-align: justify;
+    width: 1500px;
+    margin: 5px;
+    margin-top: 17px;
+    
+}
+
+#aboutHead{
+    color: whitesmoke;
+    background-color: rgb(148, 122, 127);
+    width: 180px;
+
+}
+
+body{
+    background-color: lightgray;
+    font-family: "Roboto";
+
+}
+
+nav a{
+    text-decoration: none;
+    margin-right:  8px;
+    color: black;
+    border-bottom: 3px solid black;
+    
+}
+
+nav a:hover {
+    color: whitesmoke;
+
+}
+nav a{
+    float: right;
+
+
+
+}
